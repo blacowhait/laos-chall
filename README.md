@@ -8,4 +8,4 @@
 
 | Challenge             | Category  | Qual               | Final              | Service               | Flag                  |
 |-----------------------|-----------|--------------------|--------------------|-----------------------|-----------------------|
-| Where my Qrcode?      | Stegano   |    V               |                    |                       | flag{w0w_th4nk55}     |
+| Where my Qrcode?      | Stegano   |:heavy_check_mark:  |                    |                       | flag{w0w_th4nk55}     |
