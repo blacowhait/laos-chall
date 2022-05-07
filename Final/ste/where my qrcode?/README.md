@@ -10,4 +10,4 @@ my friend told me will sent me a qrcode, but she sent me a zip with many picture
 
 ## flag
 
-`flag{w0w_th4nk55}`
+`LA2022{w0w_th4nk55}`
