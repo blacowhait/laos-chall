@@ -1,0 +1,10 @@
+version: '3'
+services:
+  laosarena:
+    container_name: chef
+    build:
+      context: ./
+    volumes:
+      - ./src:/var/www/html
+    ports:
+      - "16003:3000"

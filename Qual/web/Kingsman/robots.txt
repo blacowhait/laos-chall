@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+User-agent: Kingsman Agent 0x05
+Disallow: /agent-exam

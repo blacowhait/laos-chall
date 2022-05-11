@@ -1,0 +1,10 @@
+version: '3'
+services:
+  laosarena:
+    container_name: LSI
+    build:
+      context: ./
+    volumes:
+      - ./src:/var/www/html
+    ports:
+      - "16005:80"

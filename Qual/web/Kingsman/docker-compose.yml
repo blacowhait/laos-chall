@@ -1,0 +1,10 @@
+version: '3'
+services:
+  laosarena:
+    container_name: kingsman
+    restart: always
+    build:
+      context: .
+    ports:
+      - "16002:3000" # exposed:local
+    read_only: true

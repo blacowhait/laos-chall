@@ -1,0 +1,10 @@
+version: '3'
+services:
+  laosarena:
+    container_name: bipbip
+    restart: always
+    build:
+      context: .
+    ports:
+      - "16001:3000" # exposed:local
+    read_only: true
