@@ -6,7 +6,7 @@ just a tennis Strings
 
 ## release
 
-- strings.jpg (link aja) -> [belom]
+- strings.jpg
 
 ## flag
 

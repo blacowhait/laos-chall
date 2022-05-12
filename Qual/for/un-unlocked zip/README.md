@@ -6,7 +6,7 @@ my friend told me this zip not with password, but why its need password?
 
 ## release
 
-- lockedzip?.zip (link aja) -> [belom]
+- lockedzip?.zip
 
 ## flag
 
