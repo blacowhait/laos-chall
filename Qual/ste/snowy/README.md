@@ -6,7 +6,7 @@ we love snow, right?
 
 ## release
 
-- snow.txt (link aja) -> [belum]
+- snow.txt
 
 ## flag
 

@@ -6,7 +6,7 @@ hide n seek file is waku-waku
 
 ## release
 
-- waku-waku.jpg (link aja) -> [belom]
+- waku-waku.jpg
 
 ## flag
 

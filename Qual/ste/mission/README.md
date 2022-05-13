@@ -6,7 +6,7 @@ spy is waku waku
 
 ## release
 
-- file.zip (link aja) -> [belum]
+- file.zip
 
 ## flag
 

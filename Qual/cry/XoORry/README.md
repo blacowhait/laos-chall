@@ -6,7 +6,7 @@ can you decode XoORry logic?
 
 ## release
 
-- XoORry.zip (link aja) -> [belom]
+- XoORry.zip
 
 ## flag
 
