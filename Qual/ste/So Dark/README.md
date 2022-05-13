@@ -2,7 +2,7 @@ So Dark
 
 ## description
 
-can you see it?
+can you see it? something in the darkness?
 
 ## release
 
@@ -10,4 +10,4 @@ can you see it?
 
 ## flag
 
-`LA2022{turn_your_brightness}`
+`LA2022{yes_iam_her3}`
