@@ -6,7 +6,7 @@ color in the corner so suspicous
 
 ## release
 
-- color.jpg
+- color.png
 
 ## flag
 
