@@ -6,8 +6,8 @@ can you see some important file in this dump?
 
 ## release
 
-- waku-waku.rar
+- JOYBOY-PC.rar (link)[https://mega.nz/file/r2pRyDrK#ZKDniVBFEnV5PHtyTKtDz43WpZ7b2amsOe9cFtuclRA]
 
 ## flag
 
-`LA2022{alternate_ending_X_alternate_stream_V}`
+`LA2022{VOLA_IS_FUN}`
