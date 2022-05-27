@@ -14,7 +14,7 @@ RUN apt-get install curl -y
 # copy file
 RUN mkdir /challs
 COPY $binary /challs/$binary
-COPY release/chall.py /challs/chall.py
+COPY chall.py /challs/chall.py
 COPY flag.txt /challs/flag.txt
 WORKDIR /challs
 
