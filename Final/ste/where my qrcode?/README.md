@@ -6,7 +6,7 @@ my friend told me will sent me a qrcode, but she sent me a zip with many picture
 
 ## release
 
-- where-qrcode.zip (link aja) -> [belom]
+- where-qrcode.zip
 
 ## flag
 
