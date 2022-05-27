@@ -6,7 +6,7 @@ services:
     build:
       context: .
       args:
-        binary: server.py
+        binary: chall.py
     ports:
       - "17001:5000" # exposed:local
     read_only: true
