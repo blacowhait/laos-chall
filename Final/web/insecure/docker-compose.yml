@@ -1,0 +1,10 @@
+version: '3'
+services:
+  laosarena:
+    container_name: insecure
+    restart: always
+    build:
+      context: .
+    ports:
+      - "16006:80" # exposed:local
+    working_dir: /app
