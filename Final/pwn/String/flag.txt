@@ -1,0 +1,1 @@
+LA2022{u_can_leak_some_information_from_format_string_attack_LINZ_IS_HERE}
