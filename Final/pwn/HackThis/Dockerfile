@@ -6,7 +6,7 @@ ARG binary
 ENV binary=${binary}
 
 # update
-RUN apt update && apt upgrade -y && apt update --fix-missing
+RUN apt update && apt update --fix-missing
 RUN apt-get install python3.8 socat -y
 RUN apt-get install curl -y
 
